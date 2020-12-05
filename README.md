@@ -7,3 +7,6 @@ This python project, referred to as 5JointArmDrawer is designed for the topic of
 - Customizable length of joints
 - Output of many useful information within kinematics calculation process (The Pseudo Inverse Method), which enables further postprocessing
 - Easy to use
+
+Demo pic
+![demo](https://github.com/junj2ejj/5jointkinematics/blob/master/example/example.gif?raw=true)
